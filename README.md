@@ -1,3 +1,51 @@
+# Part 3:
+ ### The objective: To use power pivot, data modeling, Dax, and pivot tables in Excel to create reports on hospitality data. 
+
+Data input:
+booking table and 
+Properties table 
+
+1. The fact bookings file contains various columns including booking ID, property ID, check-in date, month, week number, booking platform, ratings given, booking status, successful bookings, and capacity. This file contains details about every booking made for a specific property or hotel.
+
+2. Dimension properties file contains additional details about each property
+
+### Steps followed:
+
+1. Load the data in an Excel file directly into the data model for data cleaning. Once the data cleaning is done, Use the "only create connections" option and "add this to the data model" to load data.
+
+2. In the Power pivot data model, establish the relationship between both tables by connecting the property ID.
+3. ![image](https://github.com/mythilyram/Excel/assets/123518126/f9f0e1f8-6a23-4770-9b16-5bdeae759b03)
+
+4. Create a pivot table from the data model option.
+
+5. Generate DAX measures to calculate sum, count, and average functions.
+6. 
+![image](https://github.com/mythilyram/Excel/assets/123518126/b754837c-ebb3-4fcf-80f6-557fd39b0351)
+
+The first report shows all the property performance for each Property:
+![image](https://github.com/mythilyram/Excel/assets/123518126/5464c0b6-9b88-480e-8bfe-cb682e6ab318)
+![image](https://github.com/mythilyram/Excel/assets/123518126/4a3b7ab1-2349-4fa2-8aa3-858f198d15b8)
+
+
+The second report is booking platforms by week with filters for property name category and City.
+![image](https://github.com/mythilyram/Excel/assets/123518126/b38c1501-2284-44ce-9156-b386621a7df7)
+![image](https://github.com/mythilyram/Excel/assets/123518126/4a30d430-deca-42f6-a669-2dff39bc1a38)
+
+### key findings:
+#### Revenue Leader for Business Category in June:
+> 📈 I identified the property within the business category that generated the highest revenue in the month of June, showcasing the impact of data-driven decisions.
+![image](https://github.com/mythilyram/Excel/assets/123518126/71cb04b5-89f0-4039-b994-ba7753eee16f)
+
+#### July's Average Rating for 'Atliq Blu': 🌟 'Atliq Blu' received an average rating of 4.6 in the month of July.
+> This type of insight can help businesses understand their customer feedback better.
+![image](https://github.com/mythilyram/Excel/assets/123518126/8e788541-bac8-4de0-a0ab-e8d525b13de1)
+
+#### Most Effective Booking Platform for 'Atliq Grands' (Week 'w27'): 🏨 For 'Atliq Grands' in the week of 'w27', I pinpointed the most effective booking platform in terms of revenue generation.
+>This kind of knowledge can boost future marketing strategies.
+![image](https://github.com/mythilyram/Excel/assets/123518126/e57c3d46-dcbc-4863-921a-994138ee6276)
+
+
+
 # Part 2:
  ### The objective: To use Power Query for data cleaning and data transformation for the given datasets. 
  You have been given two CSV files to work with: 
