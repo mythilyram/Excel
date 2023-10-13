@@ -4,16 +4,16 @@
 ## Project Rundown:
 
 ### ▪ Data Source:
-    I had data in the form of multiple CSV files. These files held the keys to unlocking insights for Atliq hardware.
+I had data in the form of multiple CSV files. These files held the keys to unlocking insights for Atliq hardware.
     
 ### ▪ Data Transformations:
-    Data transformation was a crucial part of this project. I had to clean, merge, and shape the data to make it ready for analysis. This step is like turning rough diamonds into sparkling gems, and it's where the magic begins.
+Data transformation was a crucial part of this project. I had to clean, merge, and shape the data to make it ready for analysis. This step is like turning rough diamonds into sparkling gems, and it's where the magic begins.
     
 ### ▪ Creating a Date Table:
-    To ensure consistent time analysis, I crafted a date table using the date range from the data. Atliq's fiscal year runs from September to August, so I aligned all data with this fiscal calendar.
+To ensure consistent time analysis, I crafted a date table using the date range from the data. Atliq's fiscal year runs from September to August, so I aligned all data with this fiscal calendar.
     
 ### ▪ DAX Formulas and Pivot Tables:
-    I flexed my DAX skills and put together some nifty pivot tables to generate a variety of insightful reports, including:
+I flexed my DAX skills and put together some nifty pivot tables to generate a variety of insightful reports, including:
 
 1. Customer Performance Report: Deep customer analysis that's pure gold for our sales strategies.
    ![image](https://github.com/mythilyram/Excel/assets/123518126/b5f30bb9-f76c-40f3-b97b-64d774c4d54c)
@@ -39,7 +39,7 @@
 ![image](https://github.com/mythilyram/Excel/assets/123518126/e7225189-c464-48b0-afe8-250aa83d6c7f)
 
 # User-Centric Design: 
-    I'm all about making data user-friendly. So, I've displayed all numbers in an easily readable format and used conditional formatting to make the most important data pop.
+I'm all about making data user-friendly. So, I've displayed all numbers in an easily readable format and used conditional formatting to make the most important data pop.
 
 Data integration and analysis are our compass for making informed, data-driven decisions. These reports are the secret sauce that will drive Atliq Hardware toward even greater success.
 
