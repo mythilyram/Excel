@@ -1,3 +1,48 @@
+# Part 4:
+# Sales Analysis and report design for Atliq Hardware
+
+## Project Rundown:
+
+### ▪ Data Source:
+    I had data in the form of multiple CSV files. These files held the keys to unlocking insights for Atliq hardware.
+    
+### ▪ Data Transformations:
+    Data transformation was a crucial part of this project. I had to clean, merge, and shape the data to make it ready for analysis. This step is like turning rough diamonds into sparkling gems, and it's where the magic begins.
+    
+### ▪ Creating a Date Table:
+    To ensure consistent time analysis, I crafted a date table using the date range from the data. Atliq's fiscal year runs from September to August, so I aligned all data with this fiscal calendar.
+    
+### ▪ DAX Formulas and Pivot Tables:
+    I flexed my DAX skills and put together some nifty pivot tables to generate a variety of insightful reports, including:
+
+1. Customer Performance Report: Deep customer analysis that's pure gold for our sales strategies.
+   ![image](https://github.com/mythilyram/Excel/assets/123518126/b5f30bb9-f76c-40f3-b97b-64d774c4d54c)
+
+
+2. Market Performance vs Target 2021: A deep dive into how we're performing against the targets set for 2021.
+![image](https://github.com/mythilyram/Excel/assets/123518126/42c5f4f7-b192-44d2-a650-2ff2336813df)
+
+3. Top 10 Products by Percentage Increase: Identifying those star products that saw impressive net sales growth from 2020 to 2021.
+![image](https://github.com/mythilyram/Excel/assets/123518126/0fa85919-6493-4ee7-91b8-fe3433c5ecb9)
+	
+4. Division Report: A snapshot of our net sales data for 2020 and 2021, complete with those all-important growth percentages.
+![image](https://github.com/mythilyram/Excel/assets/123518126/712b6628-5d6b-4034-b012-6c998519073e)
+
+5. Product Quantity Report: Highlighting our best and worst performers in terms of quantity sold.
+![image](https://github.com/mythilyram/Excel/assets/123518126/c3ed3f48-77c3-4a66-b0f9-d2bb33283f5a)
+![image](https://github.com/mythilyram/Excel/assets/123518126/b223aee6-09f2-424e-8d84-72ffe0d8856a)
+
+6. New Products in 2021: Spotting the newcomers we added to our lineup in 2021.
+![image](https://github.com/mythilyram/Excel/assets/123518126/e35bc181-a060-4290-9823-03d23f69ac7a)
+
+7. Top 5 Countries by Net Sales: A peek into our global performance, showcasing the top players.
+![image](https://github.com/mythilyram/Excel/assets/123518126/e7225189-c464-48b0-afe8-250aa83d6c7f)
+
+# User-Centric Design: 
+    I'm all about making data user-friendly. So, I've displayed all numbers in an easily readable format and used conditional formatting to make the most important data pop.
+
+Data integration and analysis are our compass for making informed, data-driven decisions. These reports are the secret sauce that will drive Atliq Hardware toward even greater success.
+
 # Part 3:
  ### The objective: To use power pivot, data modeling, Dax, and pivot tables in Excel to create reports on hospitality data. 
 
